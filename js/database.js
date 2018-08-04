@@ -1,4 +1,4 @@
-console.log("Dope");
+"use strict"
 
 const stateQuarters = [
     {
@@ -57,3 +57,5 @@ const stateQuarters = [
         year: "2008"
     }
 ]
+
+module.exports = stateQuarters;

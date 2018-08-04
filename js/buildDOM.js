@@ -37,7 +37,7 @@ function makeContainers(){
     const titleContainer = makeElement("div");
     titleContainer.setAttribute("class", "title-container");
     const quarterInfo = makeElement("div");
-    quarterInfo.setAttribute("class", "quart-info");
+    quarterInfo.setAttribute("class", "quarter-info");
     mainContent.appendChild(quarterInfo);
     mainContent.insertBefore(familyContainer, quarterInfo);
     mainContent.insertBefore(titleContainer, familyContainer);
