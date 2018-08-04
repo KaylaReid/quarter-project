@@ -6,10 +6,10 @@ const stateQuarters = [
         image: "https://www.littletoncoin.com/wcsstore/LCC/images/catalog/200x310/4454-wctmb.jpg",
         year: "2002"
     },
-    {
-        name: "New York",
-        image: "https://www.littletoncoin.com/wcsstore/LCC/images/catalog/200x310/4434-wctmb.jpg",
-        year: "2001"
+            {
+                name: "New York",
+                image: "https://www.littletoncoin.com/wcsstore/LCC/images/catalog/200x310/4434-wctmb.jpg",
+                year: "2001"
     },
     {
         name: "Mississippi",
